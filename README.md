@@ -3,3 +3,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AnishKumar1253&show_icons=true&theme=radical">
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishKumar1253&layout=compact">
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=AnishKumar1253&&style=flat-square" align="center" />
+</div> 
